@@ -1,0 +1,53 @@
+# 语料库 
+corpus/
+knowledge_base/
+
+# 字节码或缓存文件
+__pycache__/
+*.py[cod]
+*.class
+
+# 虚拟环境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 数据库文件
+*.sqlite3
+*.db
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 配置文件（如果包含敏感信息）
+*.ini
+*.cfg
+
+# 日志文件
+*.log
+
+# IDE 和编辑器目录
+.idea/
+.vscode/
+
+# 构建和分发产物
+build/
+dist/
+*.egg-info/
+
+# 语料库或数据集（如果它们很大或可以从别处下载）
+# 如果你的 corpus 目录下的文件需要版本控制，请删除下面这行
+corpus/
+
+# Python 缓存
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints

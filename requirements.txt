@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+python-dotenv
+requests
+pillow
+PyMuPDF
+rank_bm25
