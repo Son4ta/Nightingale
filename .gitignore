@@ -1,6 +1,7 @@
 # 语料库 
 corpus/
 knowledge_base/
+exported_corpus.json
 
 # 字节码或缓存文件
 __pycache__/
